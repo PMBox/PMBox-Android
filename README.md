@@ -1,5 +1,5 @@
 # PMBox-Android
-PMBox的Android应用开发者为小凯[![论坛](https://github.com/PMBox/Forum)]https://img.shields.io/gitter/room/iTXTech/Genisys.svg
+PMBox的Android应用开发者为小凯[[论坛](https://github.com/PMBox/Forum)]
 
 ### 鸣谢
 * 目前PMBox的Android软件开发完全来自小凯
