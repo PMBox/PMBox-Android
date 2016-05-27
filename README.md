@@ -19,6 +19,9 @@ PMBox的Android应用开发者为小凯
 
 ### 相关
 * 云天网：http://xiaokai.wap8y.com/
+* MCBBS：http://www.mcbbs.net/
+* ZXDA：https://pl.zxda.net/
+* 我的世界手机版论坛：http://pemc8.com/
 * PocektMine官网：https://www.pocketmine.net/
 
 ### 联合
