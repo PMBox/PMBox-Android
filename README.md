@@ -6,6 +6,7 @@ PMBox的Android应用开发者为小凯
 
 ### 特性
 * 小白一键手机开服
+* 引用PocketMine-Android软件
 * 内带内核、插件、地图
 
 ### QQ群
