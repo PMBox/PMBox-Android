@@ -26,4 +26,4 @@ PMBox的Android应用开发者为小凯
 
 ### 联合
 * PMBBS：www.pmbbs.top
-* [点击获取PMBBS移动客户端](http://app2.pgyer.com/2f40429709bf7ec5a0992afea0be918a.apk?v=1.1&sign=6b225f9fbb014d2cb07e5a9f7011411f&t=57485506&attname=PMBBS%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E7%AB%AFV0.2.8.apk)
+* [点击获取PMBBS移动客户端](http://www.pgyer.com/app/install/a4409b11284de3ec16731ec90fac1958)
