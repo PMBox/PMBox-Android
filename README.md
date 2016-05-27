@@ -3,7 +3,14 @@ PMBox的Android应用开发者为小凯
 
 ### 特性
 * 小白一键手机开服
+* 内带内核、插件、地图
 
 ### QQ群
 * PMBox交流群：499433569
 * PMBox交流群②：515883774
+
+### 联合
+* PMBBS：www.pmbbs.top
+
+### 鸣谢
+* 目前PMBox的Android软件开发完全来自 **小凯** 
