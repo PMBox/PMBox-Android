@@ -1,6 +1,9 @@
 # PMBox-Android
 PMBox的Android应用开发者为小凯
 
+### 鸣谢
+* 目前PMBox的Android软件开发完全来自小凯
+
 ### 特性
 * 小白一键手机开服
 * 内带内核、插件、地图
@@ -11,6 +14,3 @@ PMBox的Android应用开发者为小凯
 
 ### 联合
 * PMBBS：www.pmbbs.top
-
-### 鸣谢
-* 目前PMBox的Android软件开发完全来自 **小凯** 
