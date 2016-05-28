@@ -1,10 +1,11 @@
 PMBox-Android
-【[论坛](https://github.com/PMBox/Forum)】
 ============
+## 【[论坛](https://github.com/PMBox/Forum)】
 ![PMBox](https://dctm.wodemo.net/down/20160528/399678/PMBox.png)
 
 ### 鸣谢
 * 目前PMBox的Android软件开发完全来自小凯
+* PMBox的LOGO制作来自Funny
 
 ### 特性
 * 小白一键手机开服
