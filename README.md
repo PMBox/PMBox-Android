@@ -9,12 +9,13 @@ PMBox的Android应用开发者为小凯
 * 引用PocketMine-Android软件
 * 内带内核、插件、地图
 
+### 教程
+* [小野：D-link映射教程](https://dctm.wodemo.net/down/20160528/399591/%E5%B0%8F%E9%87%8E%EF%BC%9AD-link%E6%98%A0%E5%B0%84%E6%95%99%E7%A8%8B.mp4)
+* [小野：FAST迅捷、水星映射教程](https://dctm.wodemo.net/down/20160528/399592/%E5%B0%8F%E9%87%8E%EF%BC%9AFAST%E8%BF%85%E6%8D%B7%E3%80%81%E6%B0%B4%E6%98%9F%E6%98%A0%E5%B0%84%E6%95%99%E7%A8%8B.mp4)
+* [小野：磊科路由器映射教程](https://dctm.wodemo.net/down/20160528/399593/%E5%B0%8F%E9%87%8E%EF%BC%9A%E7%A3%8A%E7%A7%91%E8%B7%AF%E7%94%B1%E5%99%A8%E6%98%A0%E5%B0%84%E6%95%99%E7%A8%8B.mp4)
 ### QQ群
 * PMBox交流群：499433569
 * PMBox交流群②：515883774
-
-### 教程下载
-* [小野：D-link映射教程](http://d.pcs.baidu.com/file/05c4268bd5771b389bd57069f4391a0d?fid=4187313437-250528-226009179235460&time=1464396571&expires=1464397772&rt=sh&chkv=1&chkpc=et&sign=FDTERVYA-DCb740ccc5511e5e8fedcff06b081203-f8DhfPvYf9cRTgKPZgfsgH39Y%2FA%3D&r=834744025&sharesign=zYTcE7U3ZsaaMt6z2huzWrFmXG0yGaLHhmRfuR1HvEbymobua8iK3HjKDYVxnWwk6fESss/xkEaUjeaycDqs0RasgLLXKtbY9VxzqDXn+AlglOQFc/fk0ztx9cEIrISC1eTx8J1NqDR95uNOQkjg5NOE4/Smw9VvbJkRnh8eMW3UWDkPRRRzlIE/ZQCklbXw3zRKIF/WpnRtXObHS2fzgXN1EPu1JmCvd49jJhvGYUnSn8YnIkQnGv7SEug66iIndt9qVvQXRBFwba0VAqyZNuGeD4ZSPWmlphln+OV7VajUswIJmjs/QxYmsJq3IcdBBpjcZdKSr2Vx/ZUINSoStNEo/CD2rqA9ZZS3Z76bNoG3LqITEqlYaCR/Yir+14jMI5qC8Hh9pupTdAFo9MiyW3Tcz4Ors4h0&sh=1)
 
 ### wodemo
 * 小凯：https://xiaokai613.wodemo.net/
