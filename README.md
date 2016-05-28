@@ -5,7 +5,7 @@ PMBox-Android
 
 ### 鸣谢
 * 目前PMBox的Android软件开发完全来自小凯
-* PMBox的LOGO制作来自Funny
+* PMBox的LOGO制作来自GolemJun
 
 ### 特性
 * 小白一键手机开服
