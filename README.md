@@ -11,8 +11,8 @@ PMBox的Android应用开发者为小凯
 
 ### 教程
 * [小野：友讯D-Link路由器端口映射教程](http://shouyou.aipai.com/c33/PTckICEiJCZqJWQsKA.html)
-* [小野：磊科netcore路由器端口映射教程]()
-* [小野：迅捷FAST、水星MERCURY路由器端口映射教程]()
+* [小野：磊科netcore路由器端口映射教程](http://m.aipai.com/m33/PTckICEgJyFqJWQtKw.html)
+* [小野：迅捷FAST、水星MERCURY路由器端口映射教程](http://shouyou.aipai.com/c33/PjY7ISIkISJpJGst.html)
 
 ### QQ群
 * PMBox交流群：499433569
