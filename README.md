@@ -1,5 +1,5 @@
-# PMBox-Android
-PMBox的Android应用开发者为小凯
+PMBox-Android
+============
 ![PMBox](https://dctm.wodemo.net/down/20160528/399678/PMBox.png)
 ## 【[论坛](https://github.com/PMBox/Forum)】
 
