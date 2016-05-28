@@ -18,9 +18,19 @@ PMBox的Android应用开发者为小凯
 * PMBox交流群：499433569
 * PMBox交流群②：515883774
 
-### wodemo
-* 小凯：https://xiaokai613.wodemo.net/
-* Mr.Mei：https://dctm.wodemo.net/
+### GitHub
+* [iTX Technologies](https://github.com/iTXTech)
+
+### Jenkins
+* [Genisys-master](http://jenkins.mcper.cn/job/Genisys-master/)
+
+### Wodemo
+* [小凯](https://xiaokai613.wodemo.net/)
+* [Mr.Mei](https://dctm.wodemo.net/)
+
+### 联合
+* PMBBS：www.pmbbs.top
+* [点击获取PMBBS移动客户端](http://www.pgyer.com/app/install/a4409b11284de3ec16731ec90fac1958)
 
 ### 相关
 * 云天网：http://xiaokai.wap8y.com/
@@ -28,7 +38,3 @@ PMBox的Android应用开发者为小凯
 * ZXDA：https://pl.zxda.net/
 * 我的世界手机版论坛：http://pemc8.com/
 * PocektMine官网：https://www.pocketmine.net/
-
-### 联合
-* PMBBS：www.pmbbs.top
-* [点击获取PMBBS移动客户端](http://www.pgyer.com/app/install/a4409b11284de3ec16731ec90fac1958)
