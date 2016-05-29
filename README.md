@@ -21,6 +21,10 @@ PMBox-Android
 * PMBox交流群：499433569
 * PMBox交流群②：515883774
 
+### 联合
+* [PMBBS](http://www.pmbbs.top/)
+* [点击获取PMBBS移动客户端](http://www.pgyer.com/app/install/a4409b11284de3ec16731ec90fac1958)
+
 ### GitHub
 * [iTX Technologies](https://github.com/iTXTech)
 
@@ -30,10 +34,6 @@ PMBox-Android
 ### Wodemo
 * [小凯](https://xiaokai613.wodemo.net/)
 * [Mr.Mei](https://dctm.wodemo.net/)
-
-### 联合
-* [PMBBS](www.pmbbs.top)
-* [点击获取PMBBS移动客户端](http://www.pgyer.com/app/install/a4409b11284de3ec16731ec90fac1958)
 
 ### 相关
 * 云天网：http://xiaokai.wap8y.com/
